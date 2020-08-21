@@ -49,9 +49,9 @@ To avoid creating too much confusion, I provide a simple example here:
 > Consider that you have clone the _repository_ `applied-economics` last week. <br>
 > Today, you notice that the professor made a change in his repository and you would like to keep everything up to date.<br>
 > Then, you can run:<br>
-> `%%bash <br>
-> cd ~/applied-economics <br>
-> git pull`
+> `%%bash <br>`
+> `cd ~/applied-economics <br>`
+> `git pull`
 
 The first line here helps us to go to the directory (folder) that we want to update. <br>
 The second line here fetchs from and integrates with another repository. <br>
