@@ -1,2 +1,2 @@
 This is personal repo for keeping notes I made on Tilburg Unviersity Jupyter Lab server.
-For the MSc class Applied Economcis Analysis.
+For the MSc class [Applied Economcis Analysis](https://janboone.github.io/applied-economics/index.html#lecture_schedule_AEA).
